@@ -18,5 +18,5 @@ async def main():
     # print(f"After non-blocking function completes: {result2}")
     print("This line runs after non-blocking function completes.")
 
-if __name__ == "__main__":
-    asyncio.run(main())
+# if __name__ == "__main__":
+#     asyncio.run(main())
